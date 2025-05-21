@@ -1,0 +1,12 @@
+2c2
+< Plus infinity is 1e+302
+---
+> Plus infinity is inf
+18c18
+< h (dbl) : 1023 nodes 1 leaves unknown minterms
+---
+> h (dbl) : 1023 nodes 1 leaves 4.49423e+307 minterms
+20c20
+< one[2044] (dbl) : 1 nodes 1 leaves unknown minterms
+---
+> one[2044] (dbl) : 1 nodes 1 leaves inf minterms

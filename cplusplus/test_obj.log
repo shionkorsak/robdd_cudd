@@ -1,0 +1,16 @@
+TAP version 13
+1..2
+sed: 1: "/[0-9][0-9]* ms//
+": invalid command code /
+sed: 1: "/[0-9][0-9]* ms//
+": invalid command code /
+# comparing ./cplusplus/test.tst to ./cplusplus/test.out
+ok 1 BDD ADD ZDD basic test
+PASS: cplusplus/test_obj.test 1 BDD ADD ZDD basic test
+sed: 1: "/[0-9][0-9]* ms//
+": invalid command code /
+sed: 1: "/[0-9][0-9]* ms//
+": invalid command code /
+# comparing ./cplusplus/multi.tst to ./cplusplus/multi.out
+ok 2 multi-threaded multiple managers
+PASS: cplusplus/test_obj.test 2 multi-threaded multiple managers
